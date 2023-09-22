@@ -1,0 +1,10 @@
+C:\Users\daniq\Documents\UdeO\progra\EjercicioFor\EjercicioFor\bin\Debug\EjercicioFor.exe.config
+C:\Users\daniq\Documents\UdeO\progra\EjercicioFor\EjercicioFor\bin\Debug\EjercicioFor.exe
+C:\Users\daniq\Documents\UdeO\progra\EjercicioFor\EjercicioFor\bin\Debug\EjercicioFor.pdb
+C:\Users\daniq\Documents\UdeO\progra\EjercicioFor\EjercicioFor\obj\Debug\EjercicioFor.csproj.AssemblyReference.cache
+C:\Users\daniq\Documents\UdeO\progra\EjercicioFor\EjercicioFor\obj\Debug\EjercicioFor.Form1.resources
+C:\Users\daniq\Documents\UdeO\progra\EjercicioFor\EjercicioFor\obj\Debug\EjercicioFor.Properties.Resources.resources
+C:\Users\daniq\Documents\UdeO\progra\EjercicioFor\EjercicioFor\obj\Debug\EjercicioFor.csproj.GenerateResource.cache
+C:\Users\daniq\Documents\UdeO\progra\EjercicioFor\EjercicioFor\obj\Debug\EjercicioFor.csproj.CoreCompileInputs.cache
+C:\Users\daniq\Documents\UdeO\progra\EjercicioFor\EjercicioFor\obj\Debug\EjercicioFor.exe
+C:\Users\daniq\Documents\UdeO\progra\EjercicioFor\EjercicioFor\obj\Debug\EjercicioFor.pdb
